@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user-pc\\task-management-system\\backend\\TaskManagementSystem.csproj": {}
+    "c:\\Users\\user-pc\\task-management-system\\backend\\TaskManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user-pc\\task-management-system\\backend\\TaskManagementSystem.csproj": {
+    "c:\\Users\\user-pc\\task-management-system\\backend\\TaskManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user-pc\\task-management-system\\backend\\TaskManagementSystem.csproj",
+        "projectUniqueName": "c:\\Users\\user-pc\\task-management-system\\backend\\TaskManagementSystem.csproj",
         "projectName": "TaskManagementSystem",
-        "projectPath": "C:\\Users\\user-pc\\task-management-system\\backend\\TaskManagementSystem.csproj",
+        "projectPath": "c:\\Users\\user-pc\\task-management-system\\backend\\TaskManagementSystem.csproj",
         "packagesPath": "C:\\Users\\user-pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user-pc\\task-management-system\\backend\\obj\\",
+        "outputPath": "c:\\Users\\user-pc\\task-management-system\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
